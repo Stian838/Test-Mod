@@ -8,7 +8,7 @@ public class BlockLimestone extends Block {
 		
 	public BlockLimestone (int par1) {
 		
-		super(par1, Material.rock); //You can set different materials, check them out!
+		super(par1, Material.pumpkin); //You can set different materials, check them out!
 	}
 	
 	public void registerIcons(IconRegister iconRegister) {
